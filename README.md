@@ -1,4 +1,4 @@
-Creeper, a simple Web Crawler
+Creeper, a simple OGP Crawler
 =============================
 
 Creeper is a proof of concept application used to crawl websites and parse Open Graph metadata based on [Symfony2][1] components:

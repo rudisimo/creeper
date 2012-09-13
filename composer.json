@@ -1,7 +1,7 @@
 {
     "name": "rudisimo/creeper",
     "type": "application",
-    "description": "A simple PHP Web Crawler",
+    "description": "A simple OGP Crawler",
     "keywords": ["crawler"],
     "license": "MIT",
     "authors": [
