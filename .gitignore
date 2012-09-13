@@ -1,0 +1,7 @@
+# Composer
+composer.lock
+
+# Eclipse
+.buildpath
+.project
+.settings/

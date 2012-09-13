@@ -1,0 +1,24 @@
+{
+    "name": "rudisimo/creeper",
+    "type": "application",
+    "description": "A simple PHP Web Crawler",
+    "keywords": ["crawler"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rodolfo Puig",
+            "email": "rpuig@7gstudios.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Creeper": "src/."
+        }
+    },
+    "require": {
+        "php": ">=5.3.3",
+        "silex/silex": "1.0.*",
+        "fabpot/goutte": "1.0.*"
+    },
+    "minimum-stability": "dev"
+}
